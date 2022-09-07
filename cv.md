@@ -26,3 +26,7 @@
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (completed)
 - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
+### Languages:
+
+- English \- Pre-intermediate / Intermediate<br>
+- Russian \- Native

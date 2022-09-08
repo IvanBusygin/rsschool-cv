@@ -65,3 +65,4 @@ function convertFrac(lst) {
 
 - Ресторан с онлайн-заказом ["Bangkok Express"](https://course-jsbasic.javascript.ru/).
 
+
